@@ -1,0 +1,36 @@
+/* Navbar */
+.navbar-brand {
+  font-family: Viga;
+  font-size: 28px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  /*background-color: #e2edff;*/
+  background-image: url(img/Background1.jpg);
+  background-size: cover;
+}
+
+.jumbotron .lead {
+  font-weight: 380;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  color: #0d6efd;
+}
+
+.jumbotron .display-4 {
+  color: #0d6efd;
+  font-weight: 500;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 9rem;
+}
+
+.container .fs-6 {
+  padding-top: 5rem;
+}
